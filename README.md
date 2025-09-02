@@ -70,6 +70,15 @@ Este repositório contém a análise de viabilidade econômica de um empreendime
 
 O estudo completo está documentado nas seguintes imagens:
 
+![Menu Inicial](imagens/p1.png)
+![Menu Inicial](imagens/p2.png)
+![Menu Inicial](imagens/p3.png)
+![Menu Inicial](imagens/p4.png)
+![Menu Inicial](imagens/p5.png)
+![Menu Inicial](imagens/p6.png)
+
+
+
 * Premissas e projeções financeiras.
 * DRE projetado (anos 0 a 10).
 * Cenários Conservador, Base e Otimista.
